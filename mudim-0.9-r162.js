@@ -28,6 +28,7 @@ Mudim.BeforeInit = function() {
 	//Mudim.PANEL_BACKGROUND='lightBlue';
 	//Mudim.LANG=['Tắt','VNI','Telex','Viqr','Tổng hợp','Tự động','Chính tả','Bỏ dấu kiểu mới','Bật/Tắt','Ẩn/Hiện bảng điều khiển'];
 	//Mudim.displayMode = 1;
+	Mudim.LANG=['Tắt','Tổng hợp','Tự động','VNI','Telex','Viqr'];
 	Mudim.IGNORE_ID = ['email','url'];
 };
 Mudim.AfterInit = function() {
