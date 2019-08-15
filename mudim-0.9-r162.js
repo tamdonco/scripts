@@ -31,7 +31,7 @@ Mudim.BeforeInit = function() {
 	Mudim.IGNORE_ID = ['email','url'];
 };
 Mudim.AfterInit = function() {
-	//s = Mudim.GetPanelStyle();
+	s = Mudim.GetPanelStyle();
 	//s.fontSize = '14pt';
 	//s.fontFamily = 'Serif';
 };
