@@ -1291,7 +1291,7 @@ Mudim.IGNORE_ID = [];
 Mudim.displayMode = 0;
 Mudim.panels = ['', ''];
 Mudim.REV = 153;
-Mudim.LANG = ['Tắt', 'VNI', 'Telex', 'Viqr', 'Tổng hợp', 'Tự động', 'Chính tả', 'Bỏ dấu kiểu mới', 'Bật/Tắt', 'Ẩn/Hiện'];
+Mudim.LANG = ['Tắt', 'VNI', 'Telex', 'Viqr', 'Tổng hợp', 'Tự động', 'Chính tả', 'Bật/Tắt'];
 Mudim.method = 4;
 Mudim.oldMethod = 4;
 
