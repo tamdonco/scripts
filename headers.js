@@ -1,4 +1,4 @@
-﻿<script type="text/javascript">
+
 $(document).ready(function() {
   var path = window.location.pathname;
   if (path.substr(12) == "")
@@ -101,5 +101,5 @@ $(document).ready(function() {
 
 });
 
-</script>
+
 
